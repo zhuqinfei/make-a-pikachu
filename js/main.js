@@ -127,7 +127,7 @@
     border: 2px solid black;
     position: absolute;
     top: 50px;
-    background: #FDE348;
+    background: #fee433;
   }
   .upperLip.left{
     right: 50%;
